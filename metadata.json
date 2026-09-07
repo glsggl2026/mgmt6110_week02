@@ -1,0 +1,6 @@
+{
+  "name": "GrantMatch",
+  "description": "SG SME grant priority matching tool to discover and prioritize Singapore government grants for business projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
